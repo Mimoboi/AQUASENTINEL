@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated datasets (regenerate with: python3 simulator.py)
+data/
+
+# Operating system
+.DS_Store
+Thumbs.db
